@@ -1,0 +1,34 @@
+h1 {
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: lightskyblue 3px solid;
+}
+
+label.error {
+    color: red;
+    font-size: smaller;
+}
+
+h2 {
+    font-size: 200%;
+    text-align: center;
+    margin: 20px;
+}
+
+table {
+    border: black 1px solid;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td {
+    border: 1px black solid;
+    font-size: 140%;
+    white-space: nowrap;
+    padding: 10px 30px;
+}
+
+p {
+    padding-top: 16px;
+}
